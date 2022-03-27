@@ -1,2 +1,2 @@
 # OneDayOneStep
-This repository is for study of Backend Developer Roadmap based articles.
+This repository is for study of articles and materials based on Backend Developer Roadmap.
